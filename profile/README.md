@@ -22,8 +22,8 @@
   <a href="https://isoloop.dev/examples/">Examples</a>
 </p>
 
-Isoloop brings an Erlang/OTP-style kernel to your app. Each part of it (a React
-or Preact UI tree, plain DOM, or a headless background task) runs as an
+Isoloop is an open-source TypeScript library that brings an Erlang/OTP-style
+kernel to your app. Each part of it (a React or Preact UI tree, plain DOM, or a headless background task) runs as an
 *isolate*, on its own worker or in a shared pool, under a supervisor. When one
 blocks or crashes, the rest of the app keeps running, and the supervisor
 restarts it.
