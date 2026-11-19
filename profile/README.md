@@ -10,7 +10,7 @@
 <h3 align="center">Event-loop isolation for JavaScript apps</h3>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@isoloop/runtime"><img alt="npm @next" src="https://img.shields.io/npm/v/@isoloop/runtime/next?style=for-the-badge&label=npm%20%40next&color=2f57cc"></a>
+  <a href="https://www.npmjs.com/org/isoloop"><img alt="npm: @isoloop" src="https://img.shields.io/badge/npm-%40isoloop-2f57cc?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="https://github.com/isoloop/isoloop/blob/main/LICENSE"><img alt="MIT licence" src="https://img.shields.io/github/license/isoloop/isoloop?style=for-the-badge&color=6e46c2"></a>
   <img alt="Status: pre-release" src="https://img.shields.io/badge/status-pre--release-555?style=for-the-badge">
 </p>
