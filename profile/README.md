@@ -23,10 +23,10 @@
 </p>
 
 Isoloop is an open-source TypeScript library that brings an Erlang/OTP-style
-kernel to your app. Each part of it (a React or Preact UI tree, plain DOM, or a headless background task) runs as an
-*isolate*, on its own worker or in a shared pool, under a supervisor. When one
-blocks or crashes, the rest of the app keeps running, and the supervisor
-restarts it.
+kernel to your app. Each part of it (a React or Preact UI tree, plain DOM, or a
+headless background task) runs as an *isolate*, on its own worker or in a shared
+pool, under a supervisor. When one blocks or crashes, the rest of the app keeps
+running, and the supervisor restarts it.
 
 - **A message bus, not shared state.** Isolates talk over typed topics,
   validated with Standard Schema, each through its own channel. An isolate
