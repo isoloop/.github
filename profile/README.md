@@ -1,6 +1,26 @@
-# Isoloop
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="mark-dark.svg">
+    <img src="mark.svg" alt="" width="120">
+  </picture>
+</p>
 
-Event-loop isolation for JavaScript apps.
+<h1 align="center">Isoloop</h1>
+
+<h3 align="center">Event-loop isolation for JavaScript apps</h3>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@isoloop/runtime"><img alt="npm @next" src="https://img.shields.io/npm/v/@isoloop/runtime/next?style=for-the-badge&label=npm%20%40next&color=2f57cc"></a>
+  <a href="https://github.com/isoloop/isoloop/blob/main/LICENSE"><img alt="MIT licence" src="https://img.shields.io/github/license/isoloop/isoloop?style=for-the-badge&color=6e46c2"></a>
+  <img alt="Status: pre-release" src="https://img.shields.io/badge/status-pre--release-555?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://isoloop.dev">Website</a> •
+  <a href="https://isoloop.dev/features/">Features</a> •
+  <a href="https://isoloop.dev/how-it-works/">How it works</a> •
+  <a href="https://isoloop.dev/examples/">Examples</a>
+</p>
 
 Isoloop brings an Erlang/OTP-style kernel to your app. Each part of it (a React
 or Preact UI tree, plain DOM, or a headless background task) runs as an
@@ -22,5 +42,3 @@ restarts it.
 
 - [**isoloop**](https://github.com/isoloop/isoloop): the library, `@isoloop/*` on npm (prereleases under `next`)
 - [**web**](https://github.com/isoloop/web): [isoloop.dev](https://isoloop.dev), the examples and the design system
-
-[Features](https://isoloop.dev/features/) · [How it works](https://isoloop.dev/how-it-works/) · [Examples](https://isoloop.dev/examples/)
