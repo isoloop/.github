@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.npmjs.com/org/isoloop"><img alt="npm: @isoloop" src="https://img.shields.io/badge/npm-%40isoloop-2f57cc?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="https://github.com/isoloop/isoloop/blob/main/LICENSE"><img alt="MIT licence" src="https://img.shields.io/github/license/isoloop/isoloop?style=for-the-badge&color=6e46c2"></a>
-  <img alt="Status: pre-release" src="https://img.shields.io/badge/status-pre--release-555?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -40,5 +39,5 @@ running, and the supervisor restarts it.
 - **Built for agents.** Typed tools on your contracts, a dev MCP server, a live
   inspection feed, and WebMCP support (experimental).
 
-- [**isoloop**](https://github.com/isoloop/isoloop): the library, `@isoloop/*` on npm (prereleases under `next`)
+- [**isoloop**](https://github.com/isoloop/isoloop): the library, `@isoloop/*` on npm
 - [**web**](https://github.com/isoloop/web): [isoloop.dev](https://isoloop.dev), the examples and the design system
